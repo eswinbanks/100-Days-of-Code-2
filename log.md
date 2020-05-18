@@ -32,3 +32,7 @@ bool b = true;
 if (a && b) {
 Console.WriteLine("Condition is true");
 ```
+
+### Day 4: 18 May, 2020
+
+**Today's Progress**: 
