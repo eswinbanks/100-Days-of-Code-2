@@ -35,4 +35,6 @@ Console.WriteLine("Condition is true");
 
 ### Day 4: 18 May, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Conditionals and loops - Logical operators, conditional operator, building a basic calculator and the module 2 quiz. 
+
+**Thoughts:** As I have had a couple of days that I have missed I will be making back the time for the next couple of days. It has been a good learning about the different types of logical operators as it is useful with shortening code down. I have been struggling with logical operators and will look at these a bit more in depth using a different site to see if I can make sense of it.
