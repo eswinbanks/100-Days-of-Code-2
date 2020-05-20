@@ -42,4 +42,13 @@ Console.WriteLine("Condition is true");
 
 ### Day 5: 19 May, 2020
 
-**Today's Progress**: I have went back to do a bit more research into logical operators and even went as far as making my basic test 
+**Today's Progress**: Operators re-cap and introduction to methods. 
+
+**Thoughts:** I have went back to do a bit more research into logical operators and even went as far as making my basic test which I will eventually uplaod to here if I knew how to do. Moving onto an introduction to methods, method parameters, multiple parameters, optional and named arguments. Tomorrow I will be looking at finishing the methods section.
+
+
+### Day 6: 20 May, 2020
+
+**Today's Progress**: Finish the segment on methods.
+
+**Thoughts:** During this I have learnt passing arguments, methods overloading, recursion, making a pyramid and the methods quiz. Tomorrow I will be going through the previous lessons and making an example for each section with comments which will get upload here. 
