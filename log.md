@@ -52,3 +52,10 @@ Console.WriteLine("Condition is true");
 **Today's Progress**: Finish the segment on methods.
 
 **Thoughts:** During this I have learnt passing arguments, methods overloading, recursion, making a pyramid and the methods quiz. Tomorrow I will be going through the previous lessons and making an example for each section with comments which will get upload here. 
+
+
+### Day 7: 21 May, 2020
+
+**Today's Progress**: Make some test examples in Visual Studio
+
+**Thoughts:** Started going through and recapping some of the segments that I have already done and make some examples. So far I have made a dew examples from the basic concepts  (comments, arithmetic operators, getting user input) and I have also started making some examples from the conditionals and loops (if and switch statements, while and for loops). It has been good to go back through to try and remember what was done and how to apply it to my code. 
