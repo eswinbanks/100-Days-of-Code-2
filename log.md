@@ -59,3 +59,17 @@ Console.WriteLine("Condition is true");
 **Today's Progress**: Make some test examples in Visual Studio
 
 **Thoughts:** Started going through and recapping some of the segments that I have already done and make some examples. So far I have made a dew examples from the basic concepts  (comments, arithmetic operators, getting user input) and I have also started making some examples from the conditionals and loops (if and switch statements, while and for loops). It has been good to go back through to try and remember what was done and how to apply it to my code. 
+
+
+### Day 8: 22 May, 2020
+
+**Today's Progress**: Finish making examples.
+
+**Thoughts:** I have finished the examples for segment 2. I need to go back through segment 3 which is methods and make examples for these. This is has included examples for the do-while loop, break and continue, logical operators (in the form of a basic calculator) and conditional operators. 
+
+
+### Day 9: 23 May, 2020
+
+**Today's Progress**: Start on Classess and Objects.
+
+**Thought's:** I have taken a break from making examples until I have finished this segment and then I will go back. In this part I have learnt about classess and objects, value and reference types, encapsulation, constructors and properties. 
