@@ -75,8 +75,15 @@ Console.WriteLine("Condition is true");
 **Thought's:** I have taken a break from making examples until I have finished this segment and then I will go back. In this part I have learnt about classess and objects, value and reference types, encapsulation, constructors and properties. 
 
 
-### Day 0: 25 May, 2020
+### Day 10: 25 May, 2020
 
 **Today's Progress**: Arrays and Strings.
 
 **Thought's:** Another day missed which is a shame but I am going to be catching up with the days miss and make sure I keep getting reminders for the next days. For today I am going to me looking at arrays and strings and in here it includes the likes of using arrays in loops, array properties and methods, multidimensional arrays and jagged arrays. 
+
+
+### Day 11: 26 May, 2020
+
+**Today's Progress**: Arrays
+
+**Thought's:** So I didn't fully understand arrays so instead of moving onto the next part I have spent this time to understand arrays before moving on. I am starting to understand it more the more I look into it and use examples in VS.
