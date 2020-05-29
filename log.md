@@ -87,3 +87,24 @@ Console.WriteLine("Condition is true");
 **Today's Progress**: Arrays
 
 **Thought's:** So I didn't fully understand arrays so instead of moving onto the next part I have spent this time to understand arrays before moving on. I am starting to understand it more the more I look into it and use examples in VS.
+
+
+### Day 12: 27 May, 2020
+
+**Today's Progress**: Examples.
+
+**Thought's:** I have been setting up some examples for each of the different modules so far to see how much I can remember and going abck through and using different sites to see if they explain it in a different way. Examples that I have made so far is classes and objects, value and reference types, encapsulation, constructors and looked at properties.
+
+
+### Day 13: 28 May, 2020
+
+**Today's Progress**: Examples
+
+**Thought's:** Following on from yesterdays examples I have made a few more examples around arrays to see what I looked at the other day has sunken in. This includes arrays, using arrays in loops, multidimensional arrays and array properties and methods.
+
+
+### Day 14: 29 May, 2020
+
+**Today's Progress**: More on Classes
+
+**Thought's:** Today I will be looking at more on classes in this I will be looking at destructors, static members, static classes, this and readonly, indexers and operator overloading. 
