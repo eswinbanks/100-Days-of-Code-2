@@ -108,3 +108,9 @@ Console.WriteLine("Condition is true");
 **Today's Progress**: More on Classes
 
 **Thought's:** Today I will be looking at more on classes in this I will be looking at destructors, static members, static classes, this and readonly, indexers and operator overloading. 
+
+### Day 15: 01 June, 2020
+
+**Today's Progress**: Inheritance and Polymorphism
+
+**Thought's:** After taking abreak to spend time with family I needed to go back to learning so today I am moving onto the next section on sololearn which is about Inheritance and Polymorphism, this included - inheritance, protected members, derived class constructor and destructor and polymorphism. I will be looking at the remaining part of the section tomorrow. 
