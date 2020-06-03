@@ -114,3 +114,10 @@ Console.WriteLine("Condition is true");
 **Today's Progress**: Inheritance and Polymorphism
 
 **Thought's:** After taking abreak to spend time with family I needed to go back to learning so today I am moving onto the next section on sololearn which is about Inheritance and Polymorphism, this included - inheritance, protected members, derived class constructor and destructor and polymorphism. I will be looking at the remaining part of the section tomorrow. 
+
+
+### Day 16: 02 June, 2020
+
+**Today's Progress**: Inheritance and Polymorphism
+
+**Thought's:** Today's less is finishing the section on inheritance and polymorphism. This includes looking at abstract classes, interfaces, nested classess and namespaces with this module quiz at the end. Tomorrow lesson will be looking at structs, enmums, exceptions and files. 
